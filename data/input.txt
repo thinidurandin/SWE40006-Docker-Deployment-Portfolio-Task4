@@ -1,0 +1,3 @@
+Hello Docker!
+This is a sample text file for the High Distinction Task 4.4.
+We will process this file inside a container using volume mounts to demonstrate persistent storage capabilities.
